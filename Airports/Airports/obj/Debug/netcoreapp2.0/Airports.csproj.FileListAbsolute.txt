@@ -1,0 +1,11 @@
+c:\users\adrian.tompa\source\repos\Airports\Airports\bin\Debug\netcoreapp2.0\Airports.deps.json
+c:\users\adrian.tompa\source\repos\Airports\Airports\bin\Debug\netcoreapp2.0\Airports.runtimeconfig.json
+c:\users\adrian.tompa\source\repos\Airports\Airports\bin\Debug\netcoreapp2.0\Airports.runtimeconfig.dev.json
+c:\users\adrian.tompa\source\repos\Airports\Airports\bin\Debug\netcoreapp2.0\Airports.dll
+c:\users\adrian.tompa\source\repos\Airports\Airports\bin\Debug\netcoreapp2.0\Airports.pdb
+c:\users\adrian.tompa\source\repos\Airports\Airports\obj\Debug\netcoreapp2.0\Airports.csprojResolveAssemblyReference.cache
+c:\users\adrian.tompa\source\repos\Airports\Airports\obj\Debug\netcoreapp2.0\Airports.csproj.CoreCompileInputs.cache
+c:\users\adrian.tompa\source\repos\Airports\Airports\obj\Debug\netcoreapp2.0\Airports.AssemblyInfoInputs.cache
+c:\users\adrian.tompa\source\repos\Airports\Airports\obj\Debug\netcoreapp2.0\Airports.AssemblyInfo.cs
+c:\users\adrian.tompa\source\repos\Airports\Airports\obj\Debug\netcoreapp2.0\Airports.dll
+c:\users\adrian.tompa\source\repos\Airports\Airports\obj\Debug\netcoreapp2.0\Airports.pdb
